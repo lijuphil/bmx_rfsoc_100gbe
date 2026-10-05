@@ -121,3 +121,5 @@ Run order
 
 Figures 1 (system overview) and 2 (packetizer timing) are diagrams. No
 script in this folder makes them.
+
+PLEASE NOTE: The data is stored locally and not on a server. It can be made available upon request.
